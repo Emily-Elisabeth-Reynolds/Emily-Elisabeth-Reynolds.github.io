@@ -3,7 +3,7 @@
 My name is Emily Reynolds. I am a Math major with Business and Communication minors in the College of Arts and Sciences at Lehigh University. 
 
 ### Personal Links:
-LinkedIn: https://www.linkedin.com/in/eereynolds/
+LinkedIn: [LinkedIn](https://www.linkedin.com/in/eereynolds/)
 
 ### Study Abroad Experiences:
 ![Prague](https://www.prague.eu/img/pragueeu/u/property/logo-for-share-v2.jpg)
